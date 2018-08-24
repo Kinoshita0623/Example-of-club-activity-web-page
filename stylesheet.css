@@ -60,6 +60,10 @@ header{
     font-size:140%;
     text-decoration:none;
 }
+.toplist a:link{color:rgb(244, 254, 255); text-decoration:none }
+.toplist a:visited{color:rgb(234, 252, 253); text-decoration:none}
+.toplist a:hover{color:rgb(244, 254, 255); text-decoration:none}
+.toplist a:link:active{color:rgb(241, 254, 255); text-decoration:none}
 main{
     /*width:1000px;*/
     width:70%;
